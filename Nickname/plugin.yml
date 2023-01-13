@@ -1,0 +1,17 @@
+name: NicknameCommand
+version: 0.0.1
+main: kitsu\Nickname\Main
+api: 4.12.8
+src-namespace-prefix: kitsu\Nickname
+
+commands:
+  disguise:
+    description: Disguise yourself!
+    permission: kitsu.nickname.command # Permission required to run the command
+    permission-message: "You do not have permission to use this example command!" # Shown if no permission
+
+
+permissions:
+  kitsu.nickname.command:
+    description: "Permission Node for Kitsu's Nickname command."
+    default: true
