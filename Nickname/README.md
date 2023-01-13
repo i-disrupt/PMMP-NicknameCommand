@@ -47,17 +47,17 @@
 ## Usage / in-game examples
 
 
-Example of what the command looks like in-game
-![](https://cdn.discordapp.com/attachments/1061792086434783293/1063602477775208541/image.png)
 
-Invalid Argument example
-![](https://cdn.discordapp.com/attachments/1061792086434783293/1063602524805926983/image.png)
+![Example of what the command looks like in-game](https://cdn.discordapp.com/attachments/1061792086434783293/1063602477775208541/image.png)
 
-Profane Nickname example
-![](https://media.discordapp.net/attachments/1061792086434783293/1063602587733086308/image.png)
 
-Successful Nickname Change example
-![](https://media.discordapp.net/attachments/1061792086434783293/1063602691063955496/image.png?width=459&height=45)
+![Invalid Argument example](https://cdn.discordapp.com/attachments/1061792086434783293/1063602524805926983/image.png)
+
+
+![Profane Nickname example](https://media.discordapp.net/attachments/1061792086434783293/1063602587733086308/image.png)
+
+
+![Successful Nickname Change example](https://media.discordapp.net/attachments/1061792086434783293/1063602691063955496/image.png?width=459&height=45)
 ## License
 I'm using the
 [MIT](https://choosealicense.com/licenses/mit/)
