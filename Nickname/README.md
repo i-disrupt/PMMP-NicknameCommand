@@ -10,8 +10,8 @@
 ## Project Requirements
 ### NOTE: Anything listed here is what I used while making this project.
  - [DevTools v1.16.0](https://poggit.pmmp.io/p/DevTools/1.16.0)
- - [PocketMine  - ( Latest )](https://github.com/matiassingers/awesome-readme)
- - [PHP 8.0.0](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [PocketMine  - ( Latest )](https://pocketmine.net/)
+ - [PHP 8.0.0](https://php.net/)
 
 
 ## Getting Started
