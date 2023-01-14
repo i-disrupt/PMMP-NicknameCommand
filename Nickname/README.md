@@ -72,5 +72,5 @@ Plugins are cool 'n all, but do you know what isn't cool? Pretending things are 
 
 ## Support
 
-Need support, have a suggestion, or just want to hang out in general? Join my [discord server](https://discord.gg/b6AS2VQGSJ)
+Need support, have a suggestion, or just want to hang out in general? Join my [discord server](https://discord.gg/bnJkRTrJw9)
 
